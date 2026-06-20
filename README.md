@@ -24,7 +24,7 @@
 ██║  ██║██████╔╝██║██║ ╚████║
 ╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝
 
-[root@h4shp41]:~# ACCESS_GRANTED
+[root@abin]:~# ACCESS_GRANTED
 ```
 
 ---
