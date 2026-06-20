@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;Cybersecurity+Enthusiast;Flutter+Developer;Full+Stack+Developer;Docker+%7C+GCP+Cloud+%7C+Linux+Power+User;Building+Secure+and+Scalable+Applications"/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-abin--joy.me-00bfff?style=for-the-badge&logo=googlechrome)](https://abin-joy.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abin%20Joy-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abin%20Joy-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abin-joy-2a4b282bb/)
 [![GitHub followers](https://img.shields.io/github/followers/Abinjoy025?style=for-the-badge)](https://github.com/Abinjoy025)
 
 </div>
