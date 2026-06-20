@@ -115,20 +115,6 @@ The percentages are generated automatically from all repositories:
 
 </p>
 
-This will show percentages similar to:
-
-| Language | Percentage |
-|----------|-----------|
-| Python | xx.x % |
-| Dart | xx.x % |
-| JavaScript | xx.x % |
-| HTML | xx.x % |
-| CSS | xx.x % |
-| Go | xx.x % |
-| C | xx.x % |
-
-(The values update automatically based on your repositories.)
-
 ---
 
 # 🐍 Contribution Snake
@@ -169,8 +155,8 @@ Building secure and scalable software while continuously learning and experiment
 # 📫 Reach Me
 
 - 🌐 Portfolio: **https://abin-joy.me**
-- 📧 Email: **your-email@example.com**
-- 💼 LinkedIn: **linkedin.com/in/your-linkedin**
+- 📧 Email: **abinjoyportfolio@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/abin-joy-2a4b282bb/**
 - 🐙 GitHub: **github.com/Abinjoy025**
 
 ---
